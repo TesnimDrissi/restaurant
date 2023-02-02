@@ -2,11 +2,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	scroll-padding-top: 2rem;
-	text-decoration: none;
-	scroll-behavior: smooth;
 	list-style: none;
-	scroll-padding-top: 50px;
 	font-family: Poppins Italic;
 
 }
@@ -60,7 +56,7 @@ header{
 }
 
 .navigationbar a:hover {
-    color: #008148;
+    color: #ebdbc8;
     
     }
 
@@ -71,7 +67,7 @@ header{
 	display: flex;
 	flex-wrap: wrap;
 	background: #ebdbc8;
-	gap: -1rem; 
+	
 }
 
     
